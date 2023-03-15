@@ -21,6 +21,14 @@ DiscordRainbowRole은 디스코드 서버 내 역할의 색깔을 바꾸는 봇�
 
 </br>
 
+## 목차
+[1. 봇 생성](#1-봇-생성)
+[2. 역할 ID 복사하기](2-역할-id-복사하기)
+[3. Config.json 수정](3-configjson-수정)
+
+
+</br>
+
 ## 1. 봇 생성
 
 [디스코드 개발자 포탈](https://discord.com/developers/applications) 로 이동해 새 어플리케이션을 생성합니다.
