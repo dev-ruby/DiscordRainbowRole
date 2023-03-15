@@ -10,6 +10,8 @@
 ![Alt text](https://img.shields.io/github/commit-activity/m/dev-ruby/DiscordRainbowRole)
 
 DiscordRainbowRole은 디스코드 서버 내 역할의 색깔을 바꾸는 봇입니다.
+    
+![Alt text](https://raw.githubusercontent.com/dev-ruby/DiscordRainbowRole/main/res/preview.gif)
 
 [다운로드 1.0.0v](https://github.com/dev-ruby/DiscordRainbowRole/releases/tag/1.0.0)
 
@@ -18,6 +20,15 @@ DiscordRainbowRole은 디스코드 서버 내 역할의 색깔을 바꾸는 봇�
 </br>
 
 # 사용법
+
+</br>
+## 목차
+[1. 봇 생성](#1-봇-생성)
+
+[2. 역할 ID 복사하기](#2-역할-id-복사하기)
+
+[3. Config.json 수정](#3-configjson-수정)
+
 
 </br>
 
